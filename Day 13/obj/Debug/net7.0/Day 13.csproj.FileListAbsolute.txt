@@ -1,0 +1,15 @@
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\bin\Debug\net7.0\Day 13.exe
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\bin\Debug\net7.0\Day 13.deps.json
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\bin\Debug\net7.0\Day 13.runtimeconfig.json
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\bin\Debug\net7.0\Day 13.dll
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\bin\Debug\net7.0\Day 13.pdb
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.csproj.AssemblyReference.cache
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.AssemblyInfoInputs.cache
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.AssemblyInfo.cs
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.dll
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\refint\Day 13.dll
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.pdb
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\Day 13.genruntimeconfig.cache
+C:\Users\Alex\Code Expirements\Advent of Code\Day 13\obj\Debug\net7.0\ref\Day 13.dll
